@@ -11,4 +11,9 @@ Thoughts: Feels good to be back at coding and working with ansible.
 
 Work URL: [Pull Request](https://github.com/ngetchell/vscode/pull/18)
 
-### R1D2
+### R1D2 
+Today's Progress: Spent time fixing an ansible playbook and a very old scrapper in bash / python to run inside docker.
+
+Thoughts: Feels good to see old things runing without problems in a very new version of SO in my notebook.
+
+Work URL: Not available.
