@@ -17,3 +17,17 @@ Today's Progress: Spent time fixing an ansible playbook and a very old scrapper 
 Thoughts: Feels good to see old things runing without problems in a very new version of SO in my notebook.
 
 Work URL: Not available.
+
+### R1D3 
+Today's Progress: Refactory of a bash scrapper to python.
+
+Thoughts: Reeeealy? I realy code this bash? I don't remember nothing about this after 5 years kkkk.
+
+Work URL: Not available
+
+### R1D4 
+Today's Progress: Refactory of a bash scrapper to python.
+
+Thoughts: I still don't remembering nothing about this kkkk.
+
+Work URL: Not available
