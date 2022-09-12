@@ -31,3 +31,13 @@ Today's Progress: Refactory of a bash scrapper to python.
 Thoughts: I still don't remembering nothing about this kkkk.
 
 Work URL: Not available
+
+### R1D5 
+Today's Progress: Refactory of a bash scrapper to python.
+
+Work URL: Not available
+
+### R1D4 
+Today's Progress: Still on Refactory of a bash scrapper to python.
+
+Work URL: Not available
