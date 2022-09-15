@@ -47,3 +47,10 @@ Today's Progress: Working again in migration from bash to python (10 scripts at 
 Thoughts: Today we send the first mail (a result of this very old process), so... Haved good feelings.
 
 Work URL: Not available
+
+### R1D7 (9/14)
+Today's Progress: A little of ansible, PHP and docker.
+
+Thoughts: A regular day.
+
+Work URL: Not available
