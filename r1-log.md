@@ -54,3 +54,17 @@ Today's Progress: A little of ansible, PHP and docker.
 Thoughts: A regular day.
 
 Work URL: Not available
+
+### R1D8 (9/15)
+Today's Progress: Ansible, python, bash, kibana and docker.
+
+Thoughts: A regular day.
+
+Work URL: Not available
+
+### R1D9 (9/16)
+Today's Progress: Bash, regex, python, kafka, git and docker.
+
+Thoughts: Thinking in automate this report too...
+
+Work URL: Not available
