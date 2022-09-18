@@ -68,3 +68,10 @@ Today's Progress: Bash, regex, python, kafka, git and docker.
 Thoughts: Thinking in automate this report too...
 
 Work URL: Not available
+
+### R1D10 (9/17)
+Today's Progress: Bash, python.
+
+Thoughts: Start to code a script to add a day registry
+
+Work URL: Not available
