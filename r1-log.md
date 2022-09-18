@@ -75,3 +75,9 @@ Today's Progress: Bash, python.
 Thoughts: Start to code a script to add a day registry
 
 Work URL: Not available
+
+### R1D11 (09/18)
+
+Today's Progress: Bash and phyton. Updates in addDay.sh, a small script for add logs here :D..
+
+Thoughts: Automate everything
