@@ -81,3 +81,11 @@ Work URL: Not available
 Today's Progress: Bash and phyton. Updates in addDay.sh, a small script for add logs here :D..
 
 Thoughts: Automate everything
+
+### R1D12 (09/19)
+
+Today's Progress: Bash, kibana, ansible and phyton..
+
+Thoughts: Automate everything
+
+Work URL: Not available

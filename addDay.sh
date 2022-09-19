@@ -17,3 +17,5 @@ else
 fi
 
 echo -e "$REPORT\n$URL" >> "$LOG_FILE"
+
+git commit -am "Add day $DAY"
