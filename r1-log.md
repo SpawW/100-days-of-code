@@ -92,8 +92,8 @@ Work URL: Not available
 
 ### R1D13 (09/22)
 
-Today's Progress: .
+Today's Progress: Bash scrips and ansible.
 
 Thoughts: 
 
-Work URL: Not available
+Work URL: [Here](09/20)
