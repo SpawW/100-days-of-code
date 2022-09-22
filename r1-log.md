@@ -89,3 +89,11 @@ Today's Progress: Bash, kibana, ansible and phyton..
 Thoughts: Automate everything
 
 Work URL: Not available
+
+### R1D13 (09/22)
+
+Today's Progress: .
+
+Thoughts: 
+
+Work URL: Not available
