@@ -97,3 +97,11 @@ Today's Progress: Bash scrips and ansible.
 Thoughts: 
 
 Work URL: Not available
+
+### R1D14 (09/21)
+
+Today's Progress: Python and web crawlers.
+
+Thoughts: 
+
+Work URL: Not available
