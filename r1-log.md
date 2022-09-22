@@ -105,3 +105,11 @@ Today's Progress: Python and web crawlers.
 Thoughts: 
 
 Work URL: Not available
+
+### R1D15 (09/22)
+
+Today's Progress: Python, docker, kibana.
+
+Thoughts: 
+
+Work URL: Not available
