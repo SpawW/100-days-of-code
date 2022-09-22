@@ -90,10 +90,10 @@ Thoughts: Automate everything
 
 Work URL: Not available
 
-### R1D13 (09/22)
+### R1D13 (09/20)
 
 Today's Progress: Bash scrips and ansible.
 
 Thoughts: 
 
-Work URL: [Here](09/20)
+Work URL: Not available
