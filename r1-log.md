@@ -129,3 +129,11 @@ Today's Progress: Python, docker, kibana.
 Thoughts: Only regular stuff its Saturday :D
 
 Work URL: Not available
+
+### R1D18 (09/25)
+
+Today's Progress: Python, Bash, Ansible.
+
+Thoughts: 
+
+Work URL: Not available
