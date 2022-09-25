@@ -121,3 +121,11 @@ Today's Progress: Python, docker, kibana.
 Thoughts: Only regular stuff
 
 Work URL: Not available
+
+### R1D17 (09/24)
+
+Today's Progress: Python, docker, kibana.
+
+Thoughts: Only regular stuff its Saturday :D
+
+Work URL: Not available
