@@ -145,3 +145,11 @@ Today's Progress: Bash, Ansible.
 Thoughts: 
 
 Work URL: Not available
+
+### R1D20 (09/27)
+
+Today's Progress: Python, Qlick.
+
+Thoughts: 
+
+Work URL: Not available
