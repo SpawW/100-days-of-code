@@ -137,3 +137,11 @@ Today's Progress: Python, Bash, Ansible.
 Thoughts: 
 
 Work URL: Not available
+
+### R1D19 (09/26)
+
+Today's Progress: Bash, Ansible.
+
+Thoughts: 
+
+Work URL: Not available
