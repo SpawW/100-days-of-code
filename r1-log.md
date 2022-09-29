@@ -161,3 +161,11 @@ Today's Progress: Python, Bash, Qlick.
 Thoughts: 
 
 Work URL: Not available
+
+### R1D22 (09/29)
+
+Today's Progress: Python, Qlick.
+
+Thoughts: 
+
+Work URL: Not available
