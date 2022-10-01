@@ -177,3 +177,11 @@ Today's Progress: Python, Bash.
 Thoughts: A very old soluction ... 10 years old... finally needs some refactoring kkk
 
 Work URL: Not available
+
+### R1D24 (10/01)
+
+Today's Progress: Python, Bash, Prometheus.
+
+Thoughts: Pushing some metrics using bash + python to prometheus :D
+
+Work URL: Not available
