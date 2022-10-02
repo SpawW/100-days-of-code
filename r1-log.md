@@ -185,3 +185,11 @@ Today's Progress: Python, Bash, Prometheus.
 Thoughts: Pushing some metrics using bash + python to prometheus :D
 
 Work URL: Not available
+
+### R1D25 (10/02)
+
+Today's Progress: Bash, C++.
+
+Thoughts: 
+
+Work URL: Not available
