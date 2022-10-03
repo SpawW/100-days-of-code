@@ -193,3 +193,11 @@ Today's Progress: Bash, C++.
 Thoughts: 
 
 Work URL: Not available
+
+### R1D26 (10/03)
+
+Today's Progress: Bash, C++.
+
+Thoughts: 
+
+Work URL: Not available
