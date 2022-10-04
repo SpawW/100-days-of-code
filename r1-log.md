@@ -201,3 +201,11 @@ Today's Progress: Bash, C++.
 Thoughts: 
 
 Work URL: Not available
+
+### R1D27 (10/04)
+
+Today's Progress: Bash, C++, JavaScript.
+
+Thoughts: 
+
+Work URL: Not available
