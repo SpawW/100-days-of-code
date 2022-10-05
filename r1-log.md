@@ -210,10 +210,10 @@ Thoughts:
 
 Work URL: Not available
 
-### R1D28 (10/06)
+### R1D28 (10/05)
 
 Today's Progress: C++, JavaScript.
 
 Thoughts: 
 
-Work URL: [Here](10/05)
+Work URL: Not available
