@@ -225,3 +225,11 @@ Today's Progress: C++, JavaScript, Bash, Kibana, JSON.
 Thoughts: 
 
 Work URL: Not available
+
+### R1D30 (10/10)
+
+Today's Progress: JavaScript, Bash, Kibana, JSON.
+
+Thoughts: 
+
+Work URL: [Here](10/07)
