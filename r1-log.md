@@ -226,34 +226,18 @@ Thoughts:
 
 Work URL: Not available
 
-### R1D30 (10/10)
+### R1D30 (10/07)
 
 Today's Progress: JavaScript, Bash, Kibana, JSON.
 
-Thoughts: 
-
-Work URL: [Here](10/07)
-
-### R1D31 (10/10)
+### R1D31 (10/08)
 
 Today's Progress: JavaScript, Bash, Kibana, JSON.
 
-Thoughts: 
-
-Work URL: [Here](10/08)
-
-### R1D32 (10/10)
+### R1D32 (10/09)
 
 Today's Progress: JavaScript, Bash, Kibana, JSON.
-
-Thoughts: 
-
-Work URL: [Here](10/09)
 
 ### R1D33 (10/10)
 
-Today's Progress: Python, JavaScript, Bash, Kibana, JSON.
-
-Thoughts: 
-
-Work URL: [Here](10/10)
+Today's Progress: Python, Bash, Kibana, JSON.
