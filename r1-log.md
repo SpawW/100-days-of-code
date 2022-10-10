@@ -249,3 +249,11 @@ Today's Progress: JavaScript, Bash, Kibana, JSON.
 Thoughts: 
 
 Work URL: [Here](10/09)
+
+### R1D33 (10/10)
+
+Today's Progress: Python, JavaScript, Bash, Kibana, JSON.
+
+Thoughts: 
+
+Work URL: [Here](10/10)
