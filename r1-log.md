@@ -241,3 +241,11 @@ Today's Progress: JavaScript, Bash, Kibana, JSON.
 ### R1D33 (10/10)
 
 Today's Progress: Python, Bash, Kibana, JSON.
+
+### R1D34 (10/11)
+
+Today's Progress: Python, JavaScript, Bash, Kibana, Opensearch, JSON, rison.
+
+Thoughts: 
+
+Work URL: Not available
