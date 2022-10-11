@@ -249,3 +249,27 @@ Today's Progress: Python, JavaScript, Bash, Kibana, Opensearch, JSON, rison.
 Thoughts: 
 
 Work URL: Not available
+
+### R1D35 (10/11)
+
+Today's Progress: Python, JavaScript, Bash, Kibana, Opensearch, JSON, rison.
+
+Work URL: Not available#
+
+### R1D36 (10/11)
+
+Today's Progress: Python, JavaScript, Bash, Kibana, Opensearch, JSON, rison.
+
+Work URL: Not available#
+
+### R1D37 (10/11)
+
+Today's Progress: Python, JavaScript, Bash, Kibana, Opensearch, JSON, rison.
+
+Work URL: Not available#
+
+### R1D38 (10/11)
+
+Today's Progress: Python, JavaScript, Bash, Kibana, Opensearch, JSON, rison.
+
+Work URL: Not available #
