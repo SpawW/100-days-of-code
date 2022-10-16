@@ -1,5 +1,11 @@
 #!/bin/bash
 
+SCRIPTPATH=$(
+   cd "$(dirname "$0")"
+   pwd -P
+);
+cd "$SCRIPTPATH"
+
 PROGRESS=${1:-''}
 THOUGHTS=${2:-''}
 URL=${3:-''}
