@@ -586,4 +586,8 @@ Today's Progress: Python, Kibana, Opensearch, JSON, rison.
 
 ### R1D115 (01/02)
 
-**Today's Progress**: Python, Bash, Docker.
+**Today's Progress**: Python, Bash, Docker, c++, Arduino (ESP).
+
+### R1D116 (01/03)
+
+**Today's Progress**: Bash.
