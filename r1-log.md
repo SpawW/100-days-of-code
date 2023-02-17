@@ -754,4 +754,12 @@ Today's Progress: Python, Kibana, Opensearch, JSON, rison.
 
 ### R1D157 (02/16)
 
-**Today's Progress**: Bash.
+**Today's Progress**: Bash, python, terraform.
+
+### R1D158 (02/17)
+
+**Today's Progress**: Bash, python, terraform.
+
+### R1D159 (02/17)
+
+**Today's Progress**: Python, bash.
