@@ -2,7 +2,7 @@
 
 ## Contents
 
-* [Rules](rules.md)
+* [Original Rules](rules.md) - In my case I dont follow some rules because I don't like to waste time in more one social network see [log.md](./log.md).
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
