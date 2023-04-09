@@ -420,3 +420,7 @@ The log of my #100DaysOfCode challenge. Started on [Setember 7, Tuesday, 2022] (
 ### R1D104 (04/08)
 
 **Today's Progress**: Python, Bash, Docker.
+
+### R1D105 (04/09)
+
+**Today's Progress**: Python, bash.
