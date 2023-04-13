@@ -436,3 +436,7 @@ The log of my #100DaysOfCode challenge. Started on [Setember 7, Tuesday, 2022] (
 ### R1D108 (04/12)
 
 **Today's Progress**: Bash, NodeJS, Ansible, Python.
+
+### R1D109 (04/13)
+
+**Today's Progress**: Bash, NodeJS, Ansible, Python.
