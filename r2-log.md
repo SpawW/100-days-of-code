@@ -472,3 +472,7 @@ The log of my #100DaysOfCode challenge. Started on [Setember 7, Tuesday, 2022] (
 ### R1D117 (04/21)
 
 **Today's Progress**: Python, bash, JavaSript.
+
+### R1D118 (04/22)
+
+**Today's Progress**: Python, bash.
