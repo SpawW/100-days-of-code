@@ -500,3 +500,7 @@ The log of my #100DaysOfCode challenge. Started on [Setember 7, Tuesday, 2022] (
 ### R1D124 (04/28)
 
 **Today's Progress**: Terraform, Ansible, Docker.
+
+### R1D125 (04/29)
+
+**Today's Progress**: Bash.
