@@ -548,3 +548,7 @@ The log of my #100DaysOfCode challenge. Started on [Setember 7, Tuesday, 2022] (
 ### R1D136 (05/11)
 
 **Today's Progress**: Terraform, Ansible, Docker.
+
+### R1D137 (05/12)
+
+**Today's Progress**: Python, JavaScript.
